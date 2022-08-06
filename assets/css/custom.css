@@ -1,0 +1,50 @@
+
+.mainNav li a:hover{
+	background-color :#B6124A !important;
+	color : #FFFFFF !important;
+	border-radius: 5px;
+}
+.member-img img{
+	width : 100%;
+	height : 300px;
+}
+.datagrid{
+	border: 1px solid #000;
+}
+.datagrid2 th{
+	border : 1px solid #000 !important;
+}
+.datagrid2 td{
+	border : 1px solid #000 !important;
+}
+@media (max-width: 320px){
+	.member-img img{
+		width : 100%;
+		height : 150px !important;
+	}
+}
+@media (max-width: 360px){
+	.member-img img{
+		width : 100%;
+		height : 150px !important;
+	}
+}
+@media (max-width: 768px){
+	.member-img img{
+		width : 100%;
+		height : 200px !important;
+	}
+}
+@media (max-width: 800px){
+	.member-img img{
+		width : 100%;
+		height : 200px !important;
+	}
+}
+
+
+
+
+
+
+

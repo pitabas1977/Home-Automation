@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'poppins';
+  background-color: #ECEDEF;
+  background-image: url(18940-removebg-preview.png),url(Happy_woman_chatting_with_friends_online-removebg-preview.png);
+  background-position: top right,top right;
+  background-repeat: no-repeat;
+  margin: 10px;
+  background-position-x: 1400px,1450px;
+  background-position-y: 60px,490px;
+  background-size: 420px 320px;
+  color: #fff;
+  line-height: 1.8;
+}
+
+a{
+  text-decoration: none;
+}
+
+#container{
+
+  max-width: 1390px;
+ 
+  padding: 20px;
+  
+}
+#container2{
+  max-width: 350px;
+  padding: 20px;
+ 
+
+
+}
+#container3{
+  max-width: 410px;
+  padding: 20px;
+  position: relative; 
+  left: 350px; 
+  top: -248px 
+
+
+}
+#container4{
+  max-width: 630px;
+  padding: 20px;
+  position: relative; 
+  left: 760px; 
+  top: -687px 
+
+}
+#foc{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+ }
+
+.form-wrap{
+  background-color: #fff;
+  padding: 15px 25px;
+  color: #333;
+  border-top: 4px solid #49c1a2;
+  border-radius: 05px;
+}
+
+.form-wrap h1,
+.form-wrap p{
+  text-align: ;
+}
+
+
+.form-wrap .form-group{
+  margin-top: 15px;
+  
+}
+
+.form-wrap .form-group label{
+  display: block;
+  color: #666;
+}
+
+.form-wrap .form-group input{
+  width: 100%;
+  padding: 10px;
+  border: #ddd 1px solid;
+  border-radius: 5px;
+}
+#id{
+  display: block;
+  width: 10%;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #49c1a2;
+  color: #fff;
+  cursor: pointer;
+  border: 1px solid #49c1a2;
+  font-family: 'poppins';
+  font-size: 15px;
+  transition: 1s;
+}
+.form-wrap button{
+  display: block;
+  width: 10%;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #49c1a2;
+  color: #fff;
+  cursor: pointer;
+  border: 1px solid #49c1a2;
+  font-family: 'poppins';
+  font-size: 15px;
+  transition: 1s;
+}
+
+
+
+.form-wrap button:hover{
+  background-color: #37a08e;
+  transition: 1s;
+}
+
+.form-wrap .bottom-text{
+  font-size: 13px;
+  margin-top: 20px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 10px;
+  color: #333;
+}
+
+footer a {
+  color:#49c1a2
+}
+.buttonload {
+  background-color: white; 
+  border: 0.5px solid black; 
+  color: black; 
+  width: 100px;
+  padding: 12px 24px; /* Some padding */
+  font-size: 16px; /* Set a font-size */
+}
+
+
+.fa {
+  margin-left: -12px;
+  margin-right: 8px;
+}
